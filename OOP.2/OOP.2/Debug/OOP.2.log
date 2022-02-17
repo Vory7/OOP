@@ -1,0 +1,4 @@
+﻿  OOP.2.cpp
+C:\Users\timof\Desktop\Проекты\OOP.2\OOP.2\OOP.2.cpp(16,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\timof\Desktop\Проекты\OOP.2\OOP.2\OOP.2.cpp(155,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  OOP.2.vcxproj -> C:\Users\timof\Desktop\Проекты\OOP.2\Debug\OOP.2.exe
