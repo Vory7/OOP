@@ -1,0 +1,13 @@
+﻿  Creature.cpp
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Creature.hpp(31,1): warning C4305: +=: усечение из "double" в "float"
+  OOP.Cours.cpp
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Creature.hpp(31,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Rabbit.hpp(46,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Rabbit.hpp(49,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Wolf.hpp(47,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Wolf.hpp(51,1): warning C4305: -=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\Wolf.hpp(92,1): warning C4305: +=: усечение из "double" в "float"
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\OOP.Cours.cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\timof\Desktop\ООП\OOP.Cours\OOP.Cours\OOP.Cours.cpp(140,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  OOP.Cours.vcxproj -> C:\Users\timof\Desktop\ООП\OOP.Cours\Debug\OOP.Cours.exe
